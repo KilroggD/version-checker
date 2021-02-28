@@ -1,6 +1,8 @@
 Soltuion to compare 2 version strings
 Language: Javascript
 
+Solution method: https://github.com/KilroggD/version-checker/blob/master/src/scripts/solution.js
+
 ### Installation
 
 ```
